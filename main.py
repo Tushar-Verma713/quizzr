@@ -54,7 +54,7 @@ if st.button("Submit Quiz"):
     check(m82, "a")
     check(baldwin, "b")
     check(delta, "d")
-    check(nuc, "a")
+    check(nuc, "c")
     check(hinden, "c")
     check(threehz, "a")
     check(cure, "a")
